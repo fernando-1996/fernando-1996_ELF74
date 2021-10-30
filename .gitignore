@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# Custom ignores
+settings/
+Debug/
+ewarm/
+*.o
+*.a
+*.bin
+*.map
